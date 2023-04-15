@@ -1,4 +1,4 @@
-## flixxit 
+## flixxit --> https://flixxit.netlify.app/
 
 ![Screenshot 2023-04-15 023101](https://user-images.githubusercontent.com/116428639/232177284-b3f7de45-0f91-4c3e-8ed8-4218f9a42a6d.png)
 ![Screenshot 2023-04-15 023134](https://user-images.githubusercontent.com/116428639/232177291-c6073f16-7f85-4b4b-8539-eadf6a491e86.png)
