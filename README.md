@@ -1,3 +1,13 @@
+## flixxit 
+
+![Screenshot 2023-04-15 023101](https://user-images.githubusercontent.com/116428639/232177284-b3f7de45-0f91-4c3e-8ed8-4218f9a42a6d.png)
+![Screenshot 2023-04-15 023134](https://user-images.githubusercontent.com/116428639/232177291-c6073f16-7f85-4b4b-8539-eadf6a491e86.png)
+![Screenshot 2023-04-15 023159](https://user-images.githubusercontent.com/116428639/232177295-baf6f256-756a-4f8b-87b6-5162a6735328.png)
+![Screenshot 2023-04-15 023221](https://user-images.githubusercontent.com/116428639/232177302-f91b8943-28f1-414e-8ac2-e35047e501c1.png)
+![Screenshot 2023-04-15 024021](https://user-images.githubusercontent.com/116428639/232177307-0df8f74e-7b39-4bc7-9809-f5cc6682d046.png)
+![Screenshot 2023-04-15 024041](https://user-images.githubusercontent.com/116428639/232177312-b3a5a9dc-b7f0-478a-8d59-e236e38a6f7c.png)
+
+
 # flixxit setup
 
 Cyclic
